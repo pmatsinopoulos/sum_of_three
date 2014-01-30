@@ -5,3 +5,4 @@ $: << File.join(APP_ROOT, "pm", "algorithms")
 $: << File.join(APP_ROOT, "spec")
 
 gem 'rspec'
+gem 'json'
