@@ -1,1 +1,1 @@
-require 'sum_of_three'
+require 'sum_of_three_hash'
